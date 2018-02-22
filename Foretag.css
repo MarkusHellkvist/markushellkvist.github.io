@@ -1,0 +1,55 @@
+body {background-color: lightblue;}
+
+
+h1 {background-color: gray; color:white; text-align: center; font-family: "arial", arial, serif; font-size: 40px; border: 1px solid black;}
+h2 {color: Teal; text-align: center;padding: 30px;}
+h3 {color: LightCoral; text-align: center; padding: 15px;}
+h4 {color: red; border: 3px solid black;}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 92px;
+    background-color: lightblue; 
+	border: 1px solid black;
+	float: left;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 6px 16px;
+    text-decoration: none;
+	text-align: center;
+    border-bottom: 1px solid black;
+}
+
+
+/* Ändrar färg när man drar musen över menyn */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+	
+	
+	
+	
+li a {display: block; width: 60px;}
+
+p {color: SeaGreen;text-align: center; font-family: "Trebuchet MS", Helvetica, sans-serif; padding: 15px;}
+
+
+#para1 {color: black; font-family: "Comic Sans MS", cursive, sans-serif; padding: 25px;}
+#para2 {color:yellow; border: 2px solid black}
+#para3 {color:brown; border: 1px dotted black}
+
+
+#bil1 {float: left; width: 33%;}
+#bil2 {float: center; width: 33%}
+#bil3 {float: right; width: 33%}
+	
+#logga {float: left; height: 200px;
+    width: 300px;}
+
+
+
